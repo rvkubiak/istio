@@ -1,0 +1,11 @@
+[submodule "pilot"]
+	path = pilot
+	url = https://github.com/istio/pilot
+
+[submodule "mixer"]
+	path = mixer
+	url = https://github.com/istio/mixer
+
+[submodule "auth"]
+	path = auth
+	url = https://github.com/istio/auth
